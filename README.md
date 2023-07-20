@@ -14,8 +14,6 @@
 
 ## <a name="C"> </a>C
 
-- [sisp_payments_js](https://github.com/chuva-io/sisp_payments_js) - This module simplifies getting started with processing Vinti4, Visa, and Mastercard payments using SISP on Node.js. **By [Chuva.IO](https://chuva.io)**
-
 ## <a name="D"> </a>D
 
 ## <a name="E"> </a>E
@@ -50,6 +48,8 @@
 
 ## <a name="S"> </a>S
 
+- [sisp_payments_js](https://github.com/chuva-io/sisp_payments_js) - This module simplifies getting started with processing Vinti4, Visa, and Mastercard payments using SISP on Node.js. **By [Chuva.IO](https://chuva.io)**
+  
 ## <a name="T"> </a>T
 
 ## <a name="U"> </a>U
