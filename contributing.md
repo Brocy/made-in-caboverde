@@ -19,7 +19,7 @@ To add a new project to the collection, please ensure they meet the following re
 * Try to add the project to it's appropriate alphabetical location.
 
 * You might want to include the **made in Cabo Verde** badge to your project. Place the following code in your **README** file:
-`[![Made in Nigeria](https://img.shields.io/badge/made%20in-caboverde-008751.svg?style=flat-square)](https://github.com/brocy/made-in-caboverde)`
+`[![Made in Cabo Verde](https://img.shields.io/badge/made%20in-caboverde-008751.svg?style=flat-square)](https://github.com/brocy/made-in-caboverde)`
 
 More requirements may be added as time goes on.
 
