@@ -14,7 +14,7 @@ To add a new project to the collection, please ensure they meet the following re
 
 * The project should not be a list of some sort.
 
-* Ensure to provide a social media url of the creator of the project outside GitHub.
+* Ensure to provide a website or social media url of the creator of the project outside GitHub.
 
 * Try to add the project to it's appropriate alphabetical location.
 
