@@ -53,6 +53,12 @@ Simply write your code and deploy. Less will deploy your project to AWS giving y
 
  **By [Chuva](https://chuva.io)**
 
+---
+
+### [less-scaffolding](https://github.com/VladVIII/less-scaffolding)
+
+A CLI tool that that generates [Less](https://bit.ly/less-framework) structure and code from OpenAPI.
+
 ## <a name="M"> </a>M
 
 ## <a name="N"> </a>N
