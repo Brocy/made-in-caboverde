@@ -26,13 +26,38 @@
 
 ## <a name="I"> </a>I
 
-- [IGRP Framework](https://github.com/NOSiCode-CV/IGRP-Framework) - IGRPWeb is a platform developed by the Operational Nucleus for the Information Society (NOSi) to create web applications, based on business steps, processes, automatic code generation and incorporation of the Once-Only-Principle, written in Java. **By [NOSi](https://nosi.cv)**
+### [IGRP Framework](https://github.com/NOSiCode-CV/IGRP-Framework)
+
+IGRPWeb is a platform developed by the Operational Nucleus for the Information Society (NOSi) to create web applications, based on business steps, processes, automatic code generation and incorporation of the Once-Only-Principle, written in Java.
+
+**By [NOSi](https://nosi.cv)**
   
 ## <a name="J"> </a>J
 
 ## <a name="K"> </a>K
 
 ## <a name="L"> </a>L
+
+### [Less](https://bit.ly/less-framework)
+
+Less is a framework that radically reduces software development costs, complexity, and time to develop. It allows you to build anything from the simplest to the most complex software systems in a fast, accessible, reliable, and scalable way while reducing development costs and resources.
+
+Simply write your code and deploy. Less will deploy your project to AWS giving you distributed, infinitely scalable, event-driven, realtime, and fault tolerant systems without you ever having to deal with cloud providers, infrastructure, containers, or DevOps.
+
+ **By [Chuva](https://chuva.io)**
+
+ ---
+
+ ### [Less CLI](https://github.com/chuva-io/less-cli)
+ `less-cli` is a CLI tool that allows you to deploy your [Less](https://bit.ly/less-framework) projects to AWS while providing several other tools to facilitate your interaction with Less.
+
+ **By [Chuva](https://chuva.io)**
+
+---
+
+### [less-scaffolding](https://github.com/VladVIII/less-scaffolding)
+
+A CLI tool that that generates [Less](https://bit.ly/less-framework) structure and code from OpenAPI.
 
 ## <a name="M"> </a>M
 
@@ -48,9 +73,19 @@
 
 ## <a name="S"> </a>S
 
-- [sisp_payments_js](https://github.com/chuva-io/sisp_payments_js) - This module simplifies getting started with processing Vinti4, Visa, and Mastercard payments using SISP on Node.js. **By [Chuva.IO](https://chuva.io)**
+### [sisp_payments_js](https://github.com/chuva-io/sisp_payments_js)
 
-- [sisp-php](https://github.com/faxi-online/sisp-php) - This is implementation of a library to process SISP vinti4 payment in a easy way. **By [Faxi](https://faxi.online)**
+This module simplifies getting started with processing Vinti4, Visa, and Mastercard payments using SISP on Node.js.
+
+**By [Chuva](https://chuva.io)**
+
+---
+
+### [sisp-php](https://github.com/faxi-online/sisp-php)
+
+This is implementation of a library to process SISP vinti4 payment in a easy way.
+
+**By [Faxi](https://faxi.online)**
 
 ## <a name="T"> </a>T
 
