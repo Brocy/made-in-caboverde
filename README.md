@@ -36,6 +36,12 @@ IGRPWeb is a platform developed by the Operational Nucleus for the Information S
 
 ## <a name="K"> </a>K
 
+### [Kriol](https://github.com/kriol-lang/kriol)
+
+Kriol is a compiled programming language based on Cape Verdean Creole, with a syntax inspired by C, Go and Rust. It aims to make programming approachable for anyone who speaks that language. Documentation is available at [docs.kriol.dev](https://docs.kriol.dev).
+
+**By [KriolLang](https://kriol.dev)**
+
 ## <a name="L"> </a>L
 
 ### [Less](https://bit.ly/less-framework)
